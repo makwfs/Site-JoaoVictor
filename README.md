@@ -13,9 +13,7 @@
 
 <h2>👨‍🏫 Demonstração da aplicação</h2>
 
-<p align="center">
-<img  src="#" >
-</p>
+
 <p align="center">
 Você pode visualizar o projeto atráves do deste link:<br>
  http://www.starcosmos.com.br/Site-JoaoVictor/index.html</p>
